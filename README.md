@@ -11,7 +11,7 @@ First, we aim to identify themes in James' ASG interviews. As mentioned in the p
 
 Next, we will perform feature analysis and identify the strongest predictors of Lebron's tone during NBA Finals interviews. These are the big moments; this is where remaining poised and leading the team is most impactful! 
 
-Finally, we test and optimize various ML algorithms to predict Lebron's tone on a test set of data. How well can our models predict tone with limitations to factors and a small sample size? 
+Finally, we test and optimize various ML models to predict Lebron's tone on a test set of data. How well can our models predict tone with limitations to factors and a small sample size? 
 
 ## :mag_right: Interview Source
 http://www.asapsports.com/show_player.php?id=13888
