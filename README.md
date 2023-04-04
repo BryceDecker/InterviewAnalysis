@@ -17,7 +17,9 @@ Finally, we test and optimize various ML algorithms to predict Lebron's tone on 
 http://www.asapsports.com/show_player.php?id=13888
 
 ## 📁 Datasets
-*add csv's to repo*
+**Raw data**
+
+[Question tones](https://github.com/BryceDecker/InterviewAnalysis/blob/main/Data_sets/Question_tones.csv), [Response tones](https://github.com/BryceDecker/InterviewAnalysis/blob/main/Data_sets/Response_tones.csv), 
 
 ## 📊 Data Visualization
 **Word Cloud**
