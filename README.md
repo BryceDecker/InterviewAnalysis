@@ -24,7 +24,7 @@ http://www.asapsports.com/show_player.php?id=13888
 ## 📊 Data Visualization
 **Word Cloud**
 
-<img src="Data_visuals/Bball_wordcloud.png" width="30%"> 
+<img src="Data_visuals/Bball_wordcloud.png" width="30%"> <img src="Data_visuals/Tone_analysis.png" width="30%"> 
 
 **Feature Analysis**
 
