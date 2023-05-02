@@ -51,13 +51,13 @@ random state: 1 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; random s
 
 random state: 1
 
-<img src="Data_visuals/Confusionmatrices/knn_confusion1.png" width="33%"> <img src="Data_visuals/Confusionmatrices/lr_confusion1.png" width="33%">
- <img src="Data_visuals/Confusionmatrices/svc_confusion1.png" width="33%"> 
+<img src="Data_visuals/Confusionmatrices/knn_confusion1.png" width="30%"> <img src="Data_visuals/Confusionmatrices/lr_confusion1.png" width="30%">
+ <img src="Data_visuals/Confusionmatrices/svc_confusion1.png" width="30%"> 
 
 random state: 37
 
-<img src="Data_visuals/Confusionmatrices/knn_confusionmatrix.png" width="33%"> <img src="Data_visuals/Confusionmatrices/lr_confusionmatrix.png" width="33%">
- <img src="Data_visuals/Confusionmatrices/svc_confusionmatrix.png" width="33%"> 
+<img src="Data_visuals/Confusionmatrices/knn_confusionmatrix.png" width="30%"> <img src="Data_visuals/Confusionmatrices/lr_confusionmatrix.png" width="30%">
+ <img src="Data_visuals/Confusionmatrices/svc_confusionmatrix.png" width="30%"> 
 
 ## :bookmark_tabs: Results
 
