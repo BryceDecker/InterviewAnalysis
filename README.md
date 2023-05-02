@@ -45,7 +45,7 @@ http://www.asapsports.com/show_player.php?id=13888
 
 <img src="Data_visuals/Multivariate/multivarplot.png" width="30%"> <img src="Data_visuals/Multivariate/multivarresiduals.png" width="30%">
 
-<img src="Data_visuals/Multivariate/multivarreg.png" width="30%"> <img src="Data_visuals/Multivariate/multivarconfusion.png" width="30%">
+<img src="Data_visuals/Multivariate/multivarreg.jpg" width="30%"> <img src="Data_visuals/Multivariate/multivarconfusion.png" width="30%">
 
 **ML Accuracy**
 
