@@ -46,8 +46,8 @@ http://www.asapsports.com/show_player.php?id=13888
 
 random state: 37
 
-<img src="Data_visuals/Confusionmatrices/knn_confusionmatrix.png" width="25%"> <img src="Data_visuals/Confusionmatrices/lr_confusionmatrix.png" width="25%">
- <img src="Data_visuals/Confusionmatrices/svc_confusionmatrix.png" width="25%"> 
+<img src="Data_visuals/Confusionmatrices/knn_confusionmatrix.png" width="30%"> <img src="Data_visuals/Confusionmatrices/lr_confusionmatrix.png" width="30%">
+ <img src="Data_visuals/Confusionmatrices/svc_confusionmatrix.png" width="30%"> 
  
 random state: 1
 
