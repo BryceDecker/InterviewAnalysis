@@ -44,6 +44,8 @@ Features chosen for ML techniques, following feature selection.
 
 **ML Accuracy**
 
+<img src="Data_visuals/MLaccuracy.jpg">
+
 **Confusion Matrices**
 
 <img src="Data_visuals/Confusionmatrices/knn_confusionmatrix.png" width="30%"> <img src="Data_visuals/Confusionmatrices/lr_confusionmatrix.png" width="30%">
