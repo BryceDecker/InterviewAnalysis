@@ -44,9 +44,12 @@ http://www.asapsports.com/show_player.php?id=13888
 
 **Confusion Matrices**
 
+random state: 37
 <img src="Data_visuals/Confusionmatrices/knn_confusionmatrix.png" width="30%"> <img src="Data_visuals/Confusionmatrices/lr_confusionmatrix.png" width="30%">
-
-<img src="Data_visuals/Confusionmatrices/svc_confusionmatrix.png" width="30%"> 
+ <img src="Data_visuals/Confusionmatrices/svc_confusionmatrix.png" width="30%"> 
+random state: 1
+<img src="Data_visuals/Confusionmatrices/knn_confusion1" width="30%"> <img src="Data_visuals/Confusionmatrices/lr_confusion1" width="30%">
+ <img src="Data_visuals/Confusionmatrices/svc_confusion1" width="30%"> 
 
 ## :bookmark_tabs: Results
 
