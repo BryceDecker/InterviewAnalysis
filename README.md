@@ -51,8 +51,8 @@ random state: 37
  
 random state: 1
 
-<img src="Data_visuals/Confusionmatrices/knn_confusion1" width="25%"> <img src="Data_visuals/Confusionmatrices/lr_confusion1" width="25%">
- <img src="Data_visuals/Confusionmatrices/svc_confusion1" width="25%"> 
+<img src="Data_visuals/Confusionmatrices/knn_confusion1.png" width="25%"> <img src="Data_visuals/Confusionmatrices/lr_confusion1.png" width="25%">
+ <img src="Data_visuals/Confusionmatrices/svc_confusion1.png" width="25%"> 
 
 ## :bookmark_tabs: Results
 
