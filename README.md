@@ -40,25 +40,25 @@ http://www.asapsports.com/show_player.php?id=13888
 
 **ML Accuracy**
 
-random state: 37
-
-<img src="Data_visuals/MLaccuracy.jpg">
-
 random state: 1
 
 <img src="Data_visuals/MLaccuracy_1.jpg">
 
+random state: 37
+
+<img src="Data_visuals/MLaccuracy.jpg">
+
 **Confusion Matrices**
+
+random state: 1
+
+<img src="Data_visuals/Confusionmatrices/knn_confusion1.png" width="30%"> <img src="Data_visuals/Confusionmatrices/lr_confusion1.png" width="30%">
+ <img src="Data_visuals/Confusionmatrices/svc_confusion1.png" width="30%"> 
 
 random state: 37
 
 <img src="Data_visuals/Confusionmatrices/knn_confusionmatrix.png" width="30%"> <img src="Data_visuals/Confusionmatrices/lr_confusionmatrix.png" width="30%">
  <img src="Data_visuals/Confusionmatrices/svc_confusionmatrix.png" width="30%"> 
- 
-random state: 1
-
-<img src="Data_visuals/Confusionmatrices/knn_confusion1.png" width="30%"> <img src="Data_visuals/Confusionmatrices/lr_confusion1.png" width="30%">
- <img src="Data_visuals/Confusionmatrices/svc_confusion1.png" width="30%"> 
 
 ## :bookmark_tabs: Results
 
