@@ -28,7 +28,7 @@ http://www.asapsports.com/show_player.php?id=13888
 
 <img src="Data_visuals/RR_distribution.png" width="30%"> <img src="Data_visuals/Tone_analysis.png" width="30%"> <img src="Data_visuals/Simple_lin_reg.png" width="30%">
 
-<img src="Data_visuals/Variable_analysis.png" width="50%"> <img src="Data_visuals/Chosen_Variable_analysis.png" width="50%">
+<img src="Data_visuals/Variable_analysis.png" width="30%"> <img src="Data_visuals/Chosen_Variable_analysis.png" width="30%">
 
 **Feature Analysis**
 
