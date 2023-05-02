@@ -40,7 +40,13 @@ http://www.asapsports.com/show_player.php?id=13888
 
 **ML Accuracy**
 
+random state: 37
+
 <img src="Data_visuals/MLaccuracy.jpg">
+
+random state: 1
+
+<img src="Data_visuals/MLaccuracy_1.jpg">
 
 **Confusion Matrices**
 
