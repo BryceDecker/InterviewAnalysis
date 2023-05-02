@@ -19,7 +19,11 @@ http://www.asapsports.com/show_player.php?id=13888
 ## 📁 Datasets
 **Raw data**
 
-[Question tones](https://github.com/BryceDecker/InterviewAnalysis/blob/main/Data_sets/Question_tones.csv) and [Response tones](https://github.com/BryceDecker/InterviewAnalysis/blob/main/Data_sets/Response_tones.csv)
+[Question tones](https://github.com/BryceDecker/InterviewAnalysis/blob/main/Data_sets/Question_tones.csv), [Response tones](https://github.com/BryceDecker/InterviewAnalysis/blob/main/Data_sets/Response_tones.csv), [Tone ratings](https://github.com/BryceDecker/InterviewAnalysis/blob/main/Data_sets/raw/Interview_Tone_Rating.csv)
+
+**Clean data**
+
+[Interview data](https://github.com/BryceDecker/InterviewAnalysis/blob/main/Data_sets/clean/Interview_analysis_final.csv)
 
 ## 📊 Data Visualization
 **Word Cloud**
