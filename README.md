@@ -46,6 +46,10 @@ Features chosen for ML techniques, following feature selection.
 
 **Confusion Matrices**
 
+<img src="Data_visuals/Confusionmatrices/knn_confusionmatrix.png" width="30%"> <img src="Data_visuals/Confusionmatrices/lr_confusionmatrix.png" width="30%">
+
+<img src="Data_visuals/Confusionmatrices/svc_confusionmatrix.png" width="30%"> 
+
 ## :bookmark_tabs: Results
 
 ## :closed_book: Concluding Statements
