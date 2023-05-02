@@ -36,10 +36,6 @@ http://www.asapsports.com/show_player.php?id=13888
 
 **Feature Analysis**
 
-Features chosen to analyze prior to linear regression.
-<img src="Data_visuals/Variable_analysis.png" heigth="30%"> 
-
-Features chosen for ML techniques, following feature selection.
 <img src="Data_visuals/Chosen_Variable_analysis.png" heigth="30%">
 
 **ML Accuracy**
