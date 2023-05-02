@@ -41,6 +41,12 @@ http://www.asapsports.com/show_player.php?id=13888
 
 <img src="Data_visuals/Chosen_Variable_analysis.png" heigth="30%">
 
+**Multivariate Regression**
+
+<img src="Data_visuals/Multivariate/multivarplot.png" width="30%"> <img src="Data_visuals/Multivariate/multivarresiduals.png" width="30%">
+
+<img src="Data_visuals/Multivariate/multivarregt.png" width="30%"> <img src="Data_visuals/Multivariate/multivarconfusion.png" width="30%">
+
 **ML Accuracy**
 
 random state: 1  
