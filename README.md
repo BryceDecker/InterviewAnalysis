@@ -28,7 +28,7 @@ http://www.asapsports.com/show_player.php?id=13888
 
 **Linear Regression**
 
-<img src="Data_visuals/RR_distribution.png" width="30%"> <img src="Data_visuals/Tone_analysis.png" width="30%"> <img src="Data_visuals/lin_reg.png" width="30%">
+<img src="Data_visuals/RR_distribution.png" width="30%"><img src="Data_visuals/lin_reg.png" width="30%">
 
 **Feature Analysis**
 
