@@ -39,7 +39,7 @@ http://www.asapsports.com/show_player.php?id=13888
 
 **Feature Analysis**
 
-
+<img src="Data_visuals/Variable_analysis.png" width="30%">
 
 **Multivariate Regression**
 
