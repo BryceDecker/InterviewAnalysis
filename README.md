@@ -9,12 +9,12 @@ We aim to perform various forms of sentiment analysis on interviews with Lebron 
 
 First, we aim to identify themes in James' ASG interviews. The All-Star game is a unique experience which should consist of varying topics and trends of the year. 
 
-Next, we will perform feature analysis and identify the strongest predictors of Lebron's tone during the NBA Finals. These are the big moments; this is where remaining poised and leading the team is most impactful! 
+Next, we will conduct feature analysis and then perform regression analysis to predict Lebron's tone during the NBA Finals. These are the big moments; this is where remaining poised and leading the team is most impactful! 
 
 Finally, we test and optimize various ML models to predict Lebron's tone on a test set of data. How well can our models predict tone with limitations to factors and a small sample size? 
 
 ## :robot: ChatGPT
-
+First prompt testing was performed utilizing openai's website. After a consistent return from our prompt, we integrated ChatGPT into Python and identified the tone of over 2,000 questions and responses. Prompt: "Let 1 = positive, 0 = neutral, and -1 = negative. Identify the tone of the 5 questions using the given values. Output the list of values in order of the questions." (note: we used loops to change the prompt based on the number of questions submitted, originally a function was used to always determine the number of questions-however, this was higher token usage.)
 
 ## :mag_right: Interview Source
 http://www.asapsports.com/show_player.php?id=13888
