@@ -14,7 +14,9 @@ Next, we will conduct feature analysis and then perform regression analysis to p
 Finally, we test and optimize various ML models to predict Lebron's tone on a test set of data. How well can our models predict tone with limitations to factors and a small sample size? 
 
 ## :robot: ChatGPT
-First prompt testing was performed utilizing openai's website. After a consistent return from our prompt, we integrated ChatGPT into Python and identified the tone of over 2,000 questions and responses. Prompt: "Let 1 = positive, 0 = neutral, and -1 = negative. Identify the tone of the 5 questions using the given values. Output the list of values in order of the questions." (note: we used loops to change the prompt based on the number of questions submitted, originally a function was used to always determine the number of questions-however, this was higher token usage.)
+First prompt testing was performed on openai's website. We found most consistent results when submitting batches of size 5. After a consistent return from our prompt, we integrated ChatGPT into Python and identified the tone of over 2,000 questions and responses. 
+
+Prompt: "Let 1 = positive, 0 = neutral, and -1 = negative. Identify the tone of the 5 questions using the given values. Output the list of values in order of the questions." (note: we used loops to change the prompt based on the number of questions submitted, originally a function was used to always determine the number of questions-however, this was higher token usage.)
 
 ## :mag_right: Interview Source
 http://www.asapsports.com/show_player.php?id=13888
