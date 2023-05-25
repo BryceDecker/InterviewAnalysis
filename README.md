@@ -51,7 +51,7 @@ http://www.asapsports.com/show_player.php?id=13888
 
 **ML Accuracy**
 
-<img src="Data_visuals/ML_acc.jpg">
+<img src="Data_visuals/MLtestresults.png">
 
 **Confusion Matrices**
 
