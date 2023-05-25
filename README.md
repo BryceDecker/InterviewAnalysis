@@ -9,7 +9,7 @@ We aim to perform various forms of sentiment analysis on interviews with Lebron 
 
 First, we aim to identify themes in James' ASG interviews. The All-Star game is a unique experience which should consist of varying topics and trends of the year. 
 
-Next, we will conduct feature analysis and then perform regression analysis to predict Lebron's tone during the NBA Finals. These are the big moments; this is where remaining poised and leading the team is most impactful! 
+Next, we will conduct sentiment analysis of Lebron's tone from interviews during the NBA Finals. These are the big moments; this is where remaining poised and leading the team is most impactful! 
 
 Finally, we test and optimize various ML models for binary classification where we predict Lebron's tone on a test set of data. How well can our models predict tone with limitations to factors and a small sample size? 
 
