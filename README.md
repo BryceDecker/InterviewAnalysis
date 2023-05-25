@@ -80,7 +80,7 @@ All- Star Game interviews were chosen in anticipation of different themes than t
 
 **Sentiment Analysis**
 
-While it was interesting to evaluate the linear relationship between response and question ratings, the results were less than fruitful. However, our multivariate regression had an acceptable adjusted R^2 score - by social sciences standards. Our Durbin-Watson score indicates low multicollinearity and the F-statistic is large enough to imply that our model is significant. This accuracy score will go on to equal the best score of 6 different ML binary classification methods. Ultimately, we may conclude successful results given our limited sample size and available features.
+While it was interesting to evaluate the linear relationship between response and question ratings, the results were less than fruitful. However, our multivariate regression had an acceptable adjusted R^2 score - by social sciences standards. Our Durbin-Watson score indicates low multicollinearity and the F-statistic is large enough to imply that our model is significant. This accuracy score will go on to equal the best score of 7 different ML binary classification methods. Ultimately, we may conclude successful results given our limited sample size and available features.
 
 **Binary Classification**
 
