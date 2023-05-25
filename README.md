@@ -66,11 +66,11 @@ The two most common words were 'team' and 'guy'. Some notable appearances are Ky
 
 **Sentiment Analysis**
 
-Linear regression performed on 'response rating' and 'question rating' resulted in an R^2 value of .271. Our features with the strongest relationship to Lebron James' response rating were 'cumulative wins', 'cumulative losses', 'win', and 'loss' resulting in an adjusted R^2 score of .419 when regressional analysis was performed. A Durbin-Watson score of 2.125 and an F-statistic of 19.38. Binary classification utilizing same features we obtained an accuracy score of 80.95%.
+Linear regression performed on 'response rating' and 'question rating' resulted in an $R^2$ value of .271. By employing multivariate regression analysis, we incorporated our most influential features, namely 'cumulative wins', 'cumulative losses', 'win', and 'loss', to examine their relationship with Lebron James' response rating. The analysis yielded an adjusted R^2 score of .419, a Durbin-Watson score of 2.125 and an F-statistic of 19.38. Binary classification utilizing these same features obtained an accuracy score of 80.95%.
 
 **Binary Classification**
 
-SVC, LR, and KNN were regularly our top performing techniques. Ultimatively, we saw accuracy ranging from 70% up to 90%+ on the train and test data. For test data on our selected random state, we obtained 80.95% accuracy using our LR and KNN models and 76.19% accuracy using the SVC model.
+SVC, LR, and KNN were regularly our top performing techniques on various random states. Ultimatively, we saw accuracy ranging from 70% up to 90%+ on the train and test data. For test data on random state = 2, we obtained 80.95% accuracy using our LR and KNN models and 76.19% accuracy using the SVC model.
 
 ## :closed_book: Concluding Statements
 
