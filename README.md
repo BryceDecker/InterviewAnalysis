@@ -41,15 +41,13 @@ http://www.asapsports.com/show_player.php?id=13888
 
 <img src="Data_visuals/RR_distribution.png" width="30%"> <img src="Data_visuals/lin_reg.png" width="30%">
 
-**Feature Analysis**
+**Multivariate Regression**
 
 <img src="Data_visuals/Chosen_Variable_analysis.png" height="30%">
 
-**Multivariate Regression**
+<img src="Data_visuals/Multivariate/multivarplot .png" width="33%"> <img src="Data_visuals/Multivariate/multivarresiduals .png" width="33%"> 
 
-<img src="Data_visuals/Multivariate/multivarplot.png" width="33%"> <img src="Data_visuals/Multivariate/multivarresiduals.png" width="33%"> 
-
-<img src="Data_visuals/Multivariate/mvtest_PDF.png" width="33%"> <img src="Data_visuals/Multivariate/testresiduals.png" width="33%"> <img src="Data_visuals/Multivariate/multivarconfusion.png" width="32%">
+<img src="Data_visuals/Multivariate/mvtest_PDF .png" width="33%"> <img src="Data_visuals/Multivariate/testresiduals .png" width="33%"> <img src="Data_visuals/Multivariate/multivarconfusion .png" width="32%">
 
 **ML Accuracy**
 
