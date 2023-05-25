@@ -1,6 +1,6 @@
 # InterviewAnalysis
 ## 	:warning: Disclaimer
-The purpose of this repository is to aggregate and summarize three projects centered around Lebron James. Here you can find the code files (in their entirety), data sets, and a summary of each project. Should you seek further explanations and more details, please visit the projects on their individual repo. 
+The purpose of this repository is to aggregate and summarize three projects centered around Lebron James. Here you can find the code files (in their entirety), data sets, and a summary of each project. Should you seek further explanations and more details, please visit the projects on their individual pages here: 
 [Word Cloud](https://github.com/BryceDecker/WordCloud), [Sentiment Analysis](https://github.com/BryceDecker/SentimentAnalysis), and [Binary Classification](https://github.com/BryceDecker/BinaryClassification).
 
 ## 🛈 Background Information
