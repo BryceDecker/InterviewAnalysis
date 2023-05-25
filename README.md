@@ -9,7 +9,7 @@ Lebron James is unquestionably one of the greatest basketball players to ever li
 The best interviews occur when the spotlight is brightest and Lebron has been in many of these moments. He has been voted to the NBA All-Star team for 19 consecutive seasons, only missing out on the team his rookie year. Additionally, James has competed in the NBA Finals 10 times. He has an overall record of 22 wins and 33 losses, resulting in four championship titles. 
 
 ## 🎯 Aim
-First, we aim to identify themes in James' ASG interviews. The All-Star game is a unique experience which should consist of varying topics and trends of the year. 
+First, we aim to identify themes in James' All-Star game interviews. The ASG is a unique experience which should consist of varying topics and trends of the year. 
 
 Next, we will conduct sentiment analysis of Lebron's tone from interviews during the NBA Finals. These are the big moments; this is where remaining poised and leading the team is most impactful! 
 
