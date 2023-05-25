@@ -66,7 +66,7 @@ The two most common words were 'team' and 'guy'. Some notable appearances are Ky
 
 **Sentiment Analysis**
 
-Linear regression performed on 'response rating' and 'question rating' resulted in an $R^2$ value of .271. By employing multivariate regression analysis, we incorporated our most influential features, namely 'cumulative wins', 'cumulative losses', 'win', and 'loss', to examine their relationship with Lebron James' response rating. The analysis yielded an adjusted R^2 score of .419, a Durbin-Watson score of 2.125 and an F-statistic of 19.38. Binary classification utilizing these same features obtained an accuracy score of 80.95%.
+Linear regression performed on 'response rating' and 'question rating' resulted in an $R^2$ value of .271. By employing multivariate regression analysis, we incorporated our most influential features, namely 'cumulative wins', 'cumulative losses', 'win', and 'loss', to examine their relationship with Lebron James' response rating. The analysis yielded an adjusted $R^2$ score of .419, a Durbin-Watson score of 2.125 and an F-statistic of 19.38. Binary classification utilizing these same features obtained an accuracy score of 80.95%.
 
 **Binary Classification**
 
@@ -80,7 +80,7 @@ All- Star Game interviews were chosen in anticipation of different themes than t
 
 **Sentiment Analysis**
 
-While it was interesting to evaluate the linear relationship between response and question ratings, the results were less than fruitful. However, our multivariate regression had an acceptable adjusted R^2 score - by social sciences standards. Our Durbin-Watson score indicates low multicollinearity and the F-statistic is large enough to imply that our model is significant. The multivariate regression accuracy score will go on to equal the best score of 7 different ML binary classification methods. Ultimately, we may conclude successful results given our limited sample size and available features.
+While it was interesting to evaluate the linear relationship between response and question ratings, the results were less than fruitful. However, our multivariate regression had an acceptable adjusted $R^2$ score - by social sciences standards. Our Durbin-Watson score indicates low multicollinearity and the F-statistic is large enough to imply that our model is significant. The multivariate regression accuracy score will go on to equal the best score of 7 different ML binary classification methods. Ultimately, we may conclude successful results given our limited sample size and available features.
 
 **Binary Classification**
 
