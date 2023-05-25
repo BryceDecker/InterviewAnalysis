@@ -1,7 +1,7 @@
 # InterviewAnalysis
 ## 	:warning: Disclaimer
 The purpose of this repository is to aggregate and summarize three projects centered around Lebron James. Here you can find the code files (in their entirety), data sets, and a summary of each project. Should you seek further explanations and more details, please visit the projects on their individual repo. 
-[Word Cloud](https://github.com/BryceDecker/WordCloud) [Sentiment Analysis](https://github.com/BryceDecker/SentimentAnalysis), and [Binary Classification](https://github.com/BryceDecker/BinaryClassification)
+[Word Cloud](https://github.com/BryceDecker/WordCloud), [Sentiment Analysis](https://github.com/BryceDecker/SentimentAnalysis), and [Binary Classification](https://github.com/BryceDecker/BinaryClassification)
 
 ## 🛈 Background Information
 Lebron James is unquestionably one of the greatest basketball players to ever live. He entered stardom during his high basketball career when he was deemed, 'The Chosen One'. Then drafted directly out of high school by his hometown team, the Cleveland Cavaliers, the storybook was written for him. Despite unfathomable expectations, James has exceeded them all; in 2023, he became the NBA all-time leading scorer. Categorized as a 'team first' player, Lebron has always been known to make the correct basketball decision. This unselfish behavior is also reflected in his off-court behavior and sentiment in interviews. Lebron James is a class act of a player and human. 
