@@ -18,8 +18,6 @@ Prompt testing was initially performed on openai's website. We found most consis
 
 Prompt: "Let 1 = positive, 0 = neutral, and -1 = negative. Identify the tone of the 5 questions using the given values. Output the list of values in order of the questions." 
 
-(note: we used loops to change the prompt based on the number of questions submitted, originally an f-string was used to always determine the number of questions-however, this resulted in higher token usage.)
-
 ## :mag_right: Interview Source
 http://www.asapsports.com/show_player.php?id=13888
 
