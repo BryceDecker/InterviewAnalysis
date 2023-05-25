@@ -43,7 +43,7 @@ http://www.asapsports.com/show_player.php?id=13888
 
 **Multivariate Regression**
 
-<img src="Data_visuals/Chosen_Variable_analysis.png" height="30%">
+<img src="Data_visuals/Multivariate/Chosen_Variable_analysis.png" height="30%">
 
 <img src="Data_visuals/Multivariate/multivarplot.png" width="33%"> <img src="Data_visuals/Multivariate/multivarresiduals.png" width="33%"> 
 
