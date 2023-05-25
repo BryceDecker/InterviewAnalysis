@@ -71,7 +71,7 @@ Linear regression performed on 'response rating' and 'question rating' resulted 
 
 **Binary Classification**
 
-SVC, LR, and KNN were regularly our top performing techniques. Ultimatively, we saw accuracy ranging from 70% up to 90%+ on the train and test data. For our selected random state, we obtained 80.95% accuracy using our LR and KNN models and 76.19% accuracy using the SVC model on our test data.
+SVC, LR, and KNN were regularly our top performing techniques. Ultimatively, we saw accuracy ranging from 70% up to 90%+ on the train and test data. For test data on our selected random state, we obtained 80.95% accuracy using our LR and KNN models and 76.19% accuracy using the SVC model.
 
 ## :closed_book: Concluding Statements
 
