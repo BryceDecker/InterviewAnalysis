@@ -51,12 +51,12 @@ http://www.asapsports.com/show_player.php?id=13888
 
 **ML Accuracy**
 
-<img src="Data_visuals/MLaccuracy.jpg">
+<img src="Data_visuals/ML_acc.jpg">
 
 **Confusion Matrices**
 
-<img src="Data_visuals/Confusionmatrices/knn_confusionmatrix.png" width="30%"> <img src="Data_visuals/Confusionmatrices/lr_confusionmatrix.png" width="30%">
- <img src="Data_visuals/Confusionmatrices/svc_confusionmatrix.png" width="30%"> 
+<img src="Data_visuals/Confusionmatrices/knn_confusion1.png" width="30%"> <img src="Data_visuals/Confusionmatrices/lr_confusio1.png" width="30%">
+ <img src="Data_visuals/Confusionmatrices/svc_confusion1.png" width="30%"> 
 
 ## :bookmark_tabs: Results
 
