@@ -55,7 +55,7 @@ http://www.asapsports.com/show_player.php?id=13888
 
 **Confusion Matrices**
 
-<img src="Data_visuals/Confusionmatrices/knn_confusion1.png" width="30%"> <img src="Data_visuals/Confusionmatrices/lr_confusio1.png" width="30%">
+<img src="Data_visuals/Confusionmatrices/knn_confusion1.png" width="30%"> <img src="Data_visuals/Confusionmatrices/lr_confusion1.png" width="30%">
  <img src="Data_visuals/Confusionmatrices/svc_confusion1.png" width="30%"> 
 
 ## :bookmark_tabs: Results
